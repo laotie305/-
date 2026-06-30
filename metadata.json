@@ -1,0 +1,6 @@
+{
+  "name": "Media Recognition and Analysis",
+  "description": "An interactive workspace to upload images, add web page links, and perform high-quality custom AI-powered recognition and detailed analyses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
